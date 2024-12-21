@@ -1,4 +1,4 @@
-This is a game-alike application which is still under development.
+This is a game-like application which is still under development.
 
 I used Firebase for auth and Realtime DB as my database.
 
